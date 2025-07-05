@@ -121,8 +121,8 @@ data-analysis-project/
 ### **Setup Instructions**
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/executive-tourism-analytics.git
-cd executive-tourism-analytics
+git clone https://github.com/Tarikul0001/Tourism-Analytics-Project.git
+cd Tourism-Analytics-Project
 
 # 2. Import datasets into SQL Server
 # - Create database: tourism_analytics
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions, issues, or contributions:
-- **Repository**: [GitHub Repository](https://github.com/Tarikul0001/executive-tourism-analytics)
+- **Repository**: [GitHub Repository](https://github.com/Tarikul0001/Tourism-Analytics-Project)
 - **Documentation**: This README file contains comprehensive setup and usage instructions
 - **Enhanced by**: Tarafder Tarikul Islam - Executive Tourism Analytics Specialist
 
@@ -296,7 +296,7 @@ For questions, issues, or contributions:
 
 ## 🙏 Acknowledgments
 
-- **Original Project**: [Tourism-Analytics-Project](https://github.com/Tarikul0001/Tourism-Analytics-Project.git) by Tarafder Tarikul Islam - Provided the foundational framework and datasets
+- **Original Project**: [Tourism-Analytics-Project](https://github.com/Tarikul0001/Tourism-Analytics-Project) by Tarafder Tarikul Islam - Provided the foundational framework and datasets
 - **Enhanced by**: Tarafder Tarikul Islam - Executive-level tourism analytics and business intelligence development
 - Tourism data providers and sources
 - SQL Server community and documentation
@@ -313,7 +313,7 @@ For questions, issues, or contributions:
 
 ## 📚 **Project Origin & Enhancement**
 
-This project is based on and significantly extends the original [Tourism-Analytics-Project](https://github.com/Tarikul0001/Tourism-Analytics-Project.git) by Tarafder Tarikul Islam. 
+This project is based on and significantly extends the original [Tourism-Analytics-Project](https://github.com/Tarikul0001/Tourism-Analytics-Project) by Tarafder Tarikul Islam. 
 
 ### **Original Foundation**
 The original project provided the foundational tourism analytics framework and datasets.
@@ -330,4 +330,4 @@ This enhanced version includes comprehensive additions and improvements:
 - **Risk Assessment Frameworks** with HHI analysis, stress testing, and resilience scoring
 - **Revenue Optimization Strategies** with seasonal arbitrage and dynamic pricing analysis
 
-**Original Repository**: [https://github.com/Tarikul0001/Tourism-Analytics-Project.git](https://github.com/Tarikul0001/Tourism-Analytics-Project.git) 
+**Original Repository**: [https://github.com/Tarikul0001/Tourism-Analytics-Project](https://github.com/Tarikul0001/Tourism-Analytics-Project) 
