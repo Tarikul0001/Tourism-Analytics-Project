@@ -1,7 +1,7 @@
 # Executive-Level Tourism Analytics Business Questions
 
 ## Overview
-This document contains 15 strategic business questions designed for executive-level decision-making and strategic planning in the tourism industry. These questions provide deep insights into market positioning, investment opportunities, risk assessment, and competitive intelligence.
+This document contains 15 strategic business questions designed for executive-level decision-making and strategic planning in the global tourism industry. These questions provide deep insights into market positioning, investment opportunities, risk assessment, and competitive intelligence across 65 countries spanning 12 global regions, from mature European markets to emerging economies in Asia, Africa, and the Americas.
 
 **Enhanced Features:**
 - **Comprehensive SQL Solutions**: Each question has a fully documented, executive-ready SQL script
@@ -152,21 +152,26 @@ This document contains 15 strategic business questions designed for executive-le
 ---
 
 ## Data Requirements
-- Tourism arrival data by country, year, and month
-- Growth rate calculations
-- Seasonal arrival patterns
-- Market diversity metrics
-- Peak and off-season arrival data
+- Tourism arrival data by country, year, and month (65 countries across 12 global regions)
+- Growth rate calculations and volatility metrics
+- Seasonal arrival patterns with peak/off-season analysis
+- Market diversity metrics and source market distribution
+- Peak and off-season arrival data for pricing optimization
+- Hotel bookings, flight data, and revenue streams
+- Population and GDP per capita for economic impact analysis
+- Tourism maturity classification (mature vs emerging markets)
 
 ---
 
 ## Expected Outcomes
-- Strategic market positioning insights
-- Investment optimization recommendations
-- Risk assessment and mitigation strategies
-- Competitive intelligence and benchmarking
-- Revenue optimization opportunities
-- Crisis preparedness and recovery planning
+- Strategic market positioning insights across 65 global markets
+- Investment optimization recommendations for diverse regional portfolios
+- Risk assessment and mitigation strategies for mature and emerging markets
+- Competitive intelligence and benchmarking across 12 global regions
+- Revenue optimization opportunities through seasonal and dynamic pricing
+- Crisis preparedness and recovery planning with regional resilience analysis
+- Market entry strategies for new regions and emerging economies
+- Portfolio diversification across different tourism maturity levels
 
 ## Enhanced SQL Solutions
 Each business question is supported by a comprehensive SQL script located in the `solutions/` directory:

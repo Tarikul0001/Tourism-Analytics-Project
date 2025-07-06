@@ -4,7 +4,7 @@
 -- PURPOSE: Identify markets with the highest revenue optimization potential through 
 -- seasonal pricing strategies
 -- 
--- BUSINESS QUESTION: "Which countries have the highest potential for revenue 
+-- BUSINESS QUESTION: "Which of the 65 countries across 12 global regions have the highest potential for revenue 
 -- optimization through seasonal pricing strategies based on peak/off-peak arrival ratios, 
 -- seasonal stability, and market size?"
 -- 
@@ -14,7 +14,8 @@
 --   • Revenue Opportunity Score - Combines ratio and stability for opportunity scoring
 -- 
 -- Business Value: Identifies revenue optimization opportunities and dynamic pricing 
--- strategies for hotels, airlines, and tourism operators.
+-- strategies for hotels, airlines, and tourism operators across diverse global markets, 
+-- from year-round Caribbean destinations to seasonal European markets.
 -- =====================================================================================
 
 -- STEP 1: Analyze seasonal patterns for each country and year

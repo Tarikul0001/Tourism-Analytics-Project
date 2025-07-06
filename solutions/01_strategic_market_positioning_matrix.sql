@@ -3,7 +3,7 @@
 -- =====================================================================================
 -- PURPOSE: Classify tourism markets into strategic categories for resource allocation
 -- 
--- BUSINESS QUESTION: "How should we classify countries into Market Leaders, Emerging 
+-- BUSINESS QUESTION: "How should we classify 65 countries across 12 global regions into Market Leaders, Emerging 
 -- Challengers, Stable Performers, and At-Risk Markets for strategic planning?"
 -- 
 -- APPROACH: Analyze 3 key dimensions:
@@ -12,7 +12,8 @@
 --   3. Crisis Resilience (Recovery Resilience) - How well did it recover from COVID?
 -- 
 -- Business Value: Enables strategic resource allocation and market prioritization 
--- for tourism development and investment decisions.
+-- for tourism development and investment decisions across diverse global markets, from mature European economies 
+-- to emerging markets in Asia, Africa, and the Americas.
 -- =====================================================================================
 
 -- STEP 1: Calculate yearly totals for the last 3 years to analyze recent trends
@@ -139,11 +140,11 @@ ORDER BY StrategicScore;  -- Show best performers first
 -- • Examples: Markets struggling with growth, volatility, or crisis recovery
 --
 -- Key Business Applications:
--- • Resource allocation decisions across different market types
--- • Investment prioritization for tourism development
--- • Risk management and portfolio diversification
--- • Strategic planning for market entry, expansion, or exit
--- • Performance benchmarking and competitive analysis
+-- • Resource allocation decisions across 65 markets in 12 global regions
+-- • Investment prioritization for tourism development in mature vs emerging markets
+-- • Risk management and portfolio diversification across different regional contexts
+-- • Strategic planning for market entry, expansion, or exit in diverse economies
+-- • Performance benchmarking and competitive analysis across global markets
 --
 -- METRIC EXPLANATIONS:
 -- • CAGR_3Y: 3-year compound annual growth rate (higher = faster growth)

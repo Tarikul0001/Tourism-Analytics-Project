@@ -1,18 +1,21 @@
 # Executive Tourism Analytics Project
 
 ## 🎯 Project Overview
-A comprehensive tourism analytics project featuring **15 executive-level business questions** and advanced MS SQL queries designed for strategic decision-making in the tourism industry. This project transforms raw tourism data into actionable business intelligence for executives, investors, and tourism stakeholders.
+A comprehensive global tourism analytics project featuring **15 executive-level business questions** and advanced MS SQL queries designed for strategic decision-making across 65 countries spanning 12 global regions. This project transforms raw tourism data into actionable business intelligence for executives, investors, and tourism stakeholders worldwide.
 
 **Enhanced by**: Tarafder Tarikul Islam - Executive-level tourism analytics and business intelligence specialist
 
 ## 🏗️ Project Structure
 ```
 data-analysis-project/
-├── 📊 dataset/                          # Tourism datasets
-│   ├── Tourism_Arrivals.csv             # International tourist arrivals data
-│   ├── Tourism_Revenue.csv              # Revenue and spending data
-│   ├── Hotel_Bookings.csv               # Hotel performance metrics
-│   └── Flight_Data.csv                  # Air travel statistics
+├── 📊 dataset/                          # Enhanced tourism datasets (65 countries, 12 regions)
+│   ├── Tourism_Arrivals_Enhanced.csv    # International tourist arrivals data
+│   ├── Tourism_Revenue_Enhanced.csv     # Revenue and spending data
+│   ├── Hotel_Bookings_Enhanced.csv      # Hotel performance metrics
+│   ├── Flight_Data_Enhanced.csv         # Air travel statistics
+│   ├── generate_tourism_dataset.py      # Dataset generation script
+│   ├── compatibility_check.py           # SQL compatibility verification
+│   └── dataset_summary.json             # Dataset overview and statistics
 ├── 📋 business_questions/               # Business questions documentation
 │   └── executive_tourism_analytics_questions.md  # 15 strategic business questions
 ├── 🔧 solutions/                        # SQL analysis scripts
@@ -62,10 +65,10 @@ This ensures every query is self-explanatory, business-focused, and ready for ex
 ## 🎨 Key Features
 
 ### 📊 **Executive-Level Analytics**
-- **Strategic Market Positioning**: Classify markets into Leaders, Challengers, Performers, and At-Risk
-- **Investment Risk-Return Profiles**: Sharpe Ratio analysis for tourism markets
-- **Competitive Intelligence**: Identify top competitors and market positioning
-- **Crisis Resilience Assessment**: Stress testing and recovery trajectory analysis
+- **Strategic Market Positioning**: Classify 65 markets into Leaders, Challengers, Performers, and At-Risk across 12 global regions
+- **Investment Risk-Return Profiles**: Sharpe Ratio analysis for diverse tourism markets from mature to emerging economies
+- **Competitive Intelligence**: Identify top competitors and market positioning across different regional contexts
+- **Crisis Resilience Assessment**: Stress testing and recovery trajectory analysis for global market portfolios
 
 ### 🔍 **Advanced Business Intelligence**
 - **Market Maturity Index**: Composite scoring for market development readiness
@@ -122,16 +125,17 @@ This ensures every query is self-explanatory, business-focused, and ready for ex
 
 ## 📊 Data Sources
 
-### **Tourism_Arrivals.csv**
-- **International tourist arrivals** by country, year, and month
-- **Growth rates** and per capita metrics
-- **Source market diversity** indicators
-- **Seasonal arrival patterns** (peak/off-season)
+### **Tourism_Arrivals_Enhanced.csv**
+- **International tourist arrivals** for 65 countries across 12 global regions (2018-2022)
+- **Growth rates** and per capita metrics with volatility analysis
+- **Source market diversity** indicators and tourism maturity classification
+- **Seasonal arrival patterns** (peak/off-season) for pricing optimization
+- **Population and GDP data** for economic impact analysis
 
-### **Additional Datasets**
-- **Tourism_Revenue.csv**: Revenue and spending data
-- **Hotel_Bookings.csv**: Hotel performance metrics
-- **Flight_Data.csv**: Air travel statistics
+### **Additional Enhanced Datasets**
+- **Tourism_Revenue_Enhanced.csv**: Revenue and spending data with regional breakdowns
+- **Hotel_Bookings_Enhanced.csv**: Hotel performance metrics across different market maturity levels
+- **Flight_Data_Enhanced.csv**: Air travel statistics with capacity and load factor analysis
 
 ## 🚀 Getting Started
 
