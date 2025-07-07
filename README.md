@@ -3,7 +3,7 @@
 ## 🎯 Project Overview
 A comprehensive global tourism analytics project featuring **15 executive-level business questions** and advanced MS SQL queries designed for strategic decision-making across 65 countries spanning 12 global regions. This project transforms raw tourism data into actionable business intelligence for executives, investors, and tourism stakeholders worldwide.
 
-**Enhanced by**: Tarafder Tarikul Islam - Executive-level tourism analytics and business intelligence specialist
+**Created & Enhanced by**: Tarafder Tarikul Islam - Executive-level tourism analytics and business intelligence specialist
 
 ## 🏗️ Project Structure
 ```
